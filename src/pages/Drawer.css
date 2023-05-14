@@ -1,0 +1,34 @@
+/* @media screen and (max-width:1300px) {
+    .fff{
+        width: 100%;
+    }
+    
+}
+.sidebar{
+    width: 300px;
+    background-color: antiquewhite;
+}
+.sidebartitle{
+    display: flex;
+    justify-content: start;
+    padding: 20px;
+} 
+ .nh{
+    display: flex;
+    justify-content: start;
+}  */
+.futer{
+    position: absolute;
+    top: 1590px; 
+    /* top: 1900px; */
+    left: 3px;
+}
+.fullbars{
+    margin-left: 10px;
+    
+}
+.Seconds{
+    position: absolute;
+    top: 550px;
+    
+}

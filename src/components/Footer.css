@@ -1,0 +1,68 @@
+.footerfull{
+    background-color: black;
+    color: white;
+    border-bottom: 4px solid rgba(255, 0, 0, 0.545);
+    width: 1495px;
+    /* position: absolute;
+    bottom: 0; */
+}
+.textpart{
+    text-align: center;
+}
+.inputmessage{
+    display: flex;
+    justify-content: center;
+}
+.messageinput{
+    width: 550px;
+    height: 70px;
+}
+.inputableitems{
+    display: flex;
+    justify-content: center;
+    
+}
+.otherinputs{
+    height: 30px;
+    width: 180px;
+    margin: 8px;
+}
+.otherbutton{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(126, 244, 126);
+    color: azure;
+    margin-top: 8px;
+}
+.footersecond{
+    background-color: rgb(35, 33, 33);
+    color: red;
+    width: 1495px;
+
+}
+.footerlist{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+
+.footeradress{
+    
+    padding: 6px;
+    border-bottom: 3px solid white;
+}
+.footerlistsecond{
+    display: flex;
+    justify-content: center;
+    
+}
+@media screen and (max-width:450px){
+    .otherinputs{
+        width: 120px;
+        
+    }
+    .otherbutton{
+        width: 80px;
+    }
+}

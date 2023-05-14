@@ -1,0 +1,12 @@
+.movielogo{
+    height: 26px;
+}
+@media screen and (max-width:855px) {
+    .main{
+        position: fixed;
+        
+    }
+}
+.mainbar{
+    width: 1495px;
+}
